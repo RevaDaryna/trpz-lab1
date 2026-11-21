@@ -1,1 +1,1 @@
-line changed in master
+resolved: changes from master and conflict_branch
